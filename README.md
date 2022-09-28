@@ -2,12 +2,10 @@
 
 
 
-Welcome to my GitHub profile. I am a Software Engineer. 
+Welcome to my GitHub profile. I am a Software Engineer. Have fun 😎
 
 
 <h2 align="center">📈 GitHub Stats</h2>
-
-| :-------: | :-------------------------------------------------------------------------------------------------------- |
 
 [![](https://github.com/bau03/bau03/blob/master/profile-summary-card-output/nord_bright/0-profile-details.svg)](https://github.com/bau03)
 [![](https://github.com/bau03/bau03/blob/master/profile-summary-card-output/nord_bright/1-repos-per-language.svg)](https://github.com/bau03)
