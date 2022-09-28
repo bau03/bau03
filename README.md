@@ -1,12 +1,12 @@
-# github-profile-summary-cards-example
+<h2 align="center">👋 Hi, I’m Mehmet Batuhan YALÇIN</h2>
 
-:star: [Tutorial](https://github.com/vn7n24fzkq/github-profile-summary-cards/wiki/Toturial) ( Recommendation ) :star:
 
-Action already setup In this template, you just need click `use this template` button to create your repo and wait for workflow to finish.
 
-```To create your profile README you need to name the repo as your username```
+Welcome to my GitHub profile. I am a Software Engineer. 
 
-| :bell: | Don't forget to modify the image (All of images are in `profile-summary-card-output` folder). |
+
+<h2 align="center">📈 GitHub Stats</h2>
+
 | :-------: | :-------------------------------------------------------------------------------------------------------- |
 
 [![](https://github.com/bau03/bau03/blob/master/profile-summary-card-output/nord_bright/0-profile-details.svg)](https://github.com/bau03)
